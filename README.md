@@ -5,7 +5,7 @@ Ready mocks to be imported into your vREST instance (http://vrest.io/).
 
 Currently available mocks are:-
 
-* OpenStack
+* OpenStack (Block Storage API v2)
 
 How to Contribute
 -----------------
